@@ -5,7 +5,7 @@
         "action": {
             "type": "redirect",
             "redirect": {
-                "url": "https://savemyexams.deno.dev/solution"
+                "url": "http://localhost:8080"
             }
         },
         "condition": {
